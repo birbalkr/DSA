@@ -1,1 +1,4 @@
 *.class
+*javaCode/.cph/
+*.idea/*
+*out/*
