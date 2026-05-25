@@ -2,3 +2,4 @@
 *javaCode/.cph/
 *.idea/*
 *out/*
+*.cph/*
